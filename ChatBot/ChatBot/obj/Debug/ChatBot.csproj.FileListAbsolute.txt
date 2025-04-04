@@ -1,7 +1,0 @@
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\bin\Debug\ChatBot.exe.config
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\bin\Debug\ChatBot.exe
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\bin\Debug\ChatBot.pdb
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.AssemblyReference.cache
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\obj\Debug\ChatBot.exe
-C:\Users\Press\Source\Repos\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
